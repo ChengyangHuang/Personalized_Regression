@@ -1,6 +1,6 @@
 # Personalized Regression
 
-Implementation of personalized regression by Lengerich, Benjamin J and Aragam, Bryon and Xing, Eric P. The original github repository can be found here. https://github.com/blengerich/Personalized_Regression_Neurips19
+Code for UM EECS 545 course final project. Pytorch implementation of personalized regression by Lengerich, Benjamin J and Aragam, Bryon and Xing, Eric P. The original github repository can be found here. https://github.com/blengerich/Personalized_Regression_Neurips19
 
 ```
 @inproceedings{lengerich2019learning,
